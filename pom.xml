@@ -37,7 +37,7 @@
 						<muleVersion>4.0.0</muleVersion>
 						<username>ranjithyadav003</username>
 						<password>Ranjith@0012</password>
-						<applicationName>seconddeploy</applicationName>
+						<applicationName>jenkins</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
