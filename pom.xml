@@ -34,7 +34,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.0.0</muleVersion>
+						<muleVersion>4.7.0</muleVersion>
 						<username>ranjiththokala003</username>
 						<password>Ranjith@0012</password>
 						<applicationName>jenkins</applicationName>
